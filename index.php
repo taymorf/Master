@@ -112,7 +112,6 @@ if ($conn->connect_error) {
 //
 //            return $passwordOK;
 //        }
-//
 //        if (isset($_POST['submit'])) {
 //            $username = $_POST['username'];
 //            $passwordOK = mysqli_real_escape_string($conn, $_REQUEST['userPassword']);
